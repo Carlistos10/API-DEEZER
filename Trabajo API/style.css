@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#app {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+button {
+    cursor: pointer;
+}
+
+#results {
+    margin-top: 20px;
+}
+
+.color-especifico {
+    background-color: #333333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.container-soluciones {
+    padding: 20px;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.container-soluciones h1 {
+    color: #17a2b8;
+}
+
+.container-soluciones h3 {
+    color: #ffffff;
+}
+
+.container-soluciones p {
+    color: #ffffff;
+}
+
+.container-soluciones img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+}
